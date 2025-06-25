@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Djey Miquel
-- 🌱 I’m currently learning fullstack web development
-- 👀 I’m interested in crypto markets and entrepreneurship
+- 👋 Hi, I’m Djey Miquel Jr Fullstack web developer
+- 🌱 I’m currently learning Typescript 
+- 👀 I’m interested in fintech
+- , healthcare and entrepreneurship
 - 🌍 Based in Amsterdam, Netherlands
 
 
